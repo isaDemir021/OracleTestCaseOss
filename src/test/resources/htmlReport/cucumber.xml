@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite name="Cucumber" time="13.742" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="US OracleGroup Test Case" name="Gebruiker kan inloggen met een gebruikersnaam en wachtwoord via willekeurige IP adress, wanneer OTP PASSIEF is." time="13.583">
+<system-out><![CDATA[
+Given Gebruiker gaat naar de website via een ip adres die niet in het ip addres lijst is..passed
+Then Typ de gebruikersnaam in het gebruikersnaamvak.........................passed
+And typ het wachtwoord in het wachtwoordvak.................................passed
+And klikt op de inlogknop...................................................passed
+And close driver............................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
